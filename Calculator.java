@@ -9,7 +9,7 @@ public class Calculator {
 	public static void main(String[] args) {
 		float n1,n2,cal;
 		
-		System.out.println("Enter two Numbers");
+		System.out.println("Enter two Numbers for operations");
 		Scanner r=new Scanner(System.in);
 		Scanner input = new Scanner(System.in);
 		n1=r.nextInt();
